@@ -1,8 +1,6 @@
 package uvsq.pglp_3_5.pglp_3_5;
 
 import java.time.LocalDateTime;
-import java.util.logging.Logger;
-
 
 import org.slf4j.LoggerFactory;
 
